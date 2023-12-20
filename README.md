@@ -1,3 +1,4 @@
+# arp - Generative and Interactive Instrument
 # Instructions
 ## COMMAND LINE ARGUMENTS - Enter When Executing File
 
